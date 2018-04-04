@@ -1,21 +1,13 @@
 /**
  *
  */
-package fr.perso.hibernate;
-
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.NamedQueries;
-import javax.persistence.NamedQuery;
+package fr.perso.item;
 
 /**
  * @author cnoiray
  */
-@Entity
-@NamedQueries(value = { @NamedQuery(name = "SimplePOJO.getAll", query = "SELECT b FROM SimplePOJO b") })
 public class SimplePOJO {
 
-    @Id
     private Integer id;
     private String title;
 

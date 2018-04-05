@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="com.test.TestIEBrowser" duration-ms="8" started-at="2018-04-04T15:45:00Z" finished-at="2018-04-04T15:45:00Z">
+  <suite name="com.test.TestIEBrowser" duration-ms="6" started-at="2018-04-05T07:41:58Z" finished-at="2018-04-05T07:41:58Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="8" started-at="2018-04-04T15:45:00Z" finished-at="2018-04-04T15:45:00Z">
+    <test name="Command line test" duration-ms="6" started-at="2018-04-05T07:41:58Z" finished-at="2018-04-05T07:41:58Z">
     </test> <!-- Command line test -->
   </suite> <!-- com.test.TestIEBrowser -->
 </testng-results>
